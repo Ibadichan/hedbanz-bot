@@ -1,0 +1,16 @@
+{
+  "name": "hedbanz-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ibadichan/hedbanz-bot.git",
+  "author": "Ivan Badicean <badican01117@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "grammy": "^1.35.0"
+  }
+}
